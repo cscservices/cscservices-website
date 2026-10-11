@@ -1,6 +1,6 @@
 // ---- Edit these with your real details ----
 const CONFIG = {
-  web3formsKey: "YOUR_WEB3FORMS_KEY",   // free key from web3forms.com (sent to your email)
+  web3formsKey: "c5995a27-c43f-45cc-8422-6438d99ce654",   // Web3Forms access key (public, safe to keep here)
   whatsappNumber: "60146263499",  // digits only with country code
   instagramUrl: "https://www.instagram.com/cscservices.cc/",  // your Instagram profile
   facebookUrl: "https://www.facebook.com/share/1J852jc5MG/",  // your Facebook page
